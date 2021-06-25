@@ -1,0 +1,43 @@
+body{
+    /* background: linear-gradient(5deg, rgba(112, 106, 106, 0.8) 0%, rgb(154, 207, 151)); */
+    background-color: blueviolet;
+    color: white;
+}
+
+form{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.card{
+    background-color: black;
+    margin: auto;
+    width: 60%;
+    margin-bottom: 1%;
+}
+
+form label{
+    font-size: 1.6rem;
+}
+
+h1{
+    margin: auto;
+}
+
+.cardForm {
+    margin : auto;
+    width: 100%;
+}
+
+.main-form{
+    margin-top: 2%;
+}
+
+.form-control{
+    box-shadow: 0 0 0.2rem 0.2rem rgba(255, 255, 255,0.2);
+}
+
+.modal{
+    color: black;
+    background-color: rgb(180, 209, 101);
+} 
